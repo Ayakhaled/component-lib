@@ -1,4 +1,4 @@
-import Button from './elements/Button.js';
+import Button from './lib/elements/Button';
 module.exports = {
   Button,
 };
